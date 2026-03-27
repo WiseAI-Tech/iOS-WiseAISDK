@@ -16,7 +16,7 @@ let package = Package(
         .binaryTarget(
             name: "WiseAISDK",
             url: "https://github.com/WiseAI-Tech/WiseAISDK-iOS-SDK_SPM/releases/download/2.1.3/WiseAISDK.xcframework.zip",
-            checksum: "860b583156df02a23b24dad918c693dabd62751b53911ece0ce15136f64865c0"
+            checksum: "bc87c83c062ecca38dc6d71f9b5bb7efae48b255ef13dfea06d348b479d59b3c"
         )
     ]
 )
